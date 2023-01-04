@@ -1,6 +1,5 @@
 <?php
 
-$answer = 0;
 $input = file_get_contents(__DIR__ . '/input.txt');
 $lines = explode(PHP_EOL, $input);
 
